@@ -12,6 +12,7 @@ All the tools for web development in one place
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
 - [GlassMorphism](https://glassmorphism.com/)
 - [Flat UI Colors](https://flatuicolors.com/)
+- [Wave Generator](https://flatuicolors.com/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
