@@ -6,13 +6,14 @@ All the tools for web development in one place
 - [Unsplash for free images](https://unsplash.com/)
 
 ## HTML/CSS
-- [coolbackgrounds.io](https://coolbackgrounds.io/)
+- [Cool Background Generator](https://coolbackgrounds.io/)
 - [Cubic Bezier Generator](https://cubic-bezier.com/#.17,.67,.83,.67)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
 - [GlassMorphism](https://glassmorphism.com/)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Wave Generator](https://flatuicolors.com/)
+- [Meta Tags Generator](https://metatags.io/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
