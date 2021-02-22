@@ -4,6 +4,8 @@ All the tools for web development in one place
 ## UI/UX
 - [Collect UI](collectui.com)
 - [Unsplash for free images](https://unsplash.com/)
+- [Compress Image without losing quality](squoosh.app)
+- [Turn Screenshots into image assets](screenstab.com)
 
 ## HTML/CSS
 - [Cool Background Generator](https://coolbackgrounds.io/)
