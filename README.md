@@ -24,3 +24,7 @@ All the tools for web development in one place
 ## Web deployment
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
+
+## Web Tutorials
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [Namaste Javascript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini)
