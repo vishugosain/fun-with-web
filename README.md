@@ -19,7 +19,17 @@ All the tools for web development in one place
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
+- [JavaScript Info](javascript.info)
+- [Namaste Javascript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini)
 
+## Angular
+- [Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+- [Debug RxJS](https://blog.angular-university.io/debug-rxjs/)
+- [Observable Data Services](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
+- [Decorators](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
+
+## NodeJS
+- [Connect MongoDB to a GraphQL Server](https://buddy.works/tutorials/how-to-connect-mongodb-to-graphql-server)
 
 ## Web deployment
 - [Netlify](https://www.netlify.com/)
@@ -27,4 +37,3 @@ All the tools for web development in one place
 
 ## Web Tutorials
 - [Freecodecamp](https://www.freecodecamp.org/)
-- [Namaste Javascript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini)
