@@ -6,6 +6,7 @@ All the tools for web development in one place
 - [Unsplash for free images](https://unsplash.com/)
 - [Compress Image without losing quality](squoosh.app)
 - [Turn Screenshots into image assets](screenstab.com)
+- [Free Icons](https://freeicons.io)
 
 ## HTML/CSS
 - [Cool Background Generator](https://coolbackgrounds.io/)
