@@ -18,6 +18,7 @@ All the tools for web development in one place
 - [Wave Generator](https://flatuicolors.com/)
 - [Meta Tags Generator](https://metatags.io/)
 - [Color Pallete Hunt](https://colorhunt.co/)
+- [CSS Button Generator](https://www.cssbuttongenerator.com/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
