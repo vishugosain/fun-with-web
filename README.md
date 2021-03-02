@@ -43,4 +43,3 @@ All the tools for web development in one place
 ## Web Tutorials
 - [Freecodecamp](https://www.freecodecamp.org/)
 - [Frontend Tips](https://getfrontend.tips/)
-- 
