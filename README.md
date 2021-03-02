@@ -7,6 +7,7 @@ All the tools for web development in one place
 - [Compress Image without losing quality](squoosh.app)
 - [Turn Screenshots into image assets](screenstab.com)
 - [Free Icons](https://freeicons.io)
+- [Add Placeholder Image](https://placeholders.xyz/)
 
 ## HTML/CSS
 - [Cool Background Generator](https://coolbackgrounds.io/)
@@ -19,6 +20,7 @@ All the tools for web development in one place
 - [Meta Tags Generator](https://metatags.io/)
 - [Color Pallete Hunt](https://colorhunt.co/)
 - [CSS Button Generator](https://www.cssbuttongenerator.com/)
+- [Create Beautiful images of your code](https://ray.so/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
@@ -40,3 +42,5 @@ All the tools for web development in one place
 
 ## Web Tutorials
 - [Freecodecamp](https://www.freecodecamp.org/)
+- [Frontend Tips](https://getfrontend.tips/)
+- 
