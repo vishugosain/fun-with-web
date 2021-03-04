@@ -21,6 +21,8 @@ All the tools for web development in one place
 - [Color Pallete Hunt](https://colorhunt.co/)
 - [CSS Button Generator](https://www.cssbuttongenerator.com/)
 - [Create Beautiful images of your code](https://ray.so/)
+- [Generate Color Schemes](https://coolors.co/)
+- [Website Responsive aid dev tool](https://responsively.app/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
