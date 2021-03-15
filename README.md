@@ -23,6 +23,9 @@ All the tools for web development in one place
 - [Create Beautiful images of your code](https://ray.so/)
 - [Generate Color Schemes](https://coolors.co/)
 - [Website Responsive aid dev tool](https://responsively.app/)
+- [Create Grid Layout Online](https://grid.layoutit.com/)
+- [Create Flexbox Layout Online](https://flexbox.webflow.com/)
+- [Create Clip Path Online](https://bennettfeely.com/clippy/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
