@@ -8,6 +8,7 @@ All the tools for web development in one place
 - [Turn Screenshots into image assets](screenstab.com)
 - [Free Icons](https://freeicons.io)
 - [Add Placeholder Image](https://placeholders.xyz/)
+- [Illustrations](https://undraw.co/illustrations)
 
 ## HTML/CSS
 - [Cool Background Generator](https://coolbackgrounds.io/)
@@ -26,6 +27,9 @@ All the tools for web development in one place
 - [Create Grid Layout Online](https://grid.layoutit.com/)
 - [Create Flexbox Layout Online](https://flexbox.webflow.com/)
 - [Create Clip Path Online](https://bennettfeely.com/clippy/)
+- [Regex Generator](https://ihateregex.io/)
+- [Extract CSS](http://extractcss.com/)
+- [Metatags Viewer](https://metatags.io/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
