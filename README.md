@@ -30,6 +30,7 @@ All the tools for web development in one place
 - [Regex Generator](https://ihateregex.io/)
 - [Extract CSS](http://extractcss.com/)
 - [Metatags Viewer](https://metatags.io/)
+- [CSS animation and shadow generator](https://keyframes.app/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
