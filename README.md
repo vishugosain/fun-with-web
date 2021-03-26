@@ -1,5 +1,6 @@
 # fun-with-web
-All the tools for web development in one place
+All the tools for web development in one place.
+This Repo is still in progress, I will add more resources as I move ahead in the web development. A ⭐ will be appreciated. Feel free to create a PR if you want to add some more resources/tools to it.
 
 # Table of Contents
 1. [UI/UX](#uiux)
