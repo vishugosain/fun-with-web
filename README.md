@@ -4,12 +4,12 @@ All the tools for web development in one place
 # Table of Contents
 1. [UI/UX](#uiux)
 2. [HTML/CSS](#htmlcss)
-3. [Javascript](#javscript)
+3. [Javascript](#javascript)
 4. [Angular](#angular)
 5. [NodeJS](#nodejs)
 6. [Web Deployment](#web-deployment)
-7. [Web Development](#web-development)
-8. [Useful Github Repos](#userful-github-repos)
+7. [Web Development Tutorials](#web-tutorials)
+8. [Useful Github Repos](#useful-github-repos)
 
 ## UI/UX
 - [Collect UI](collectui.com)
