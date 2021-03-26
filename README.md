@@ -56,6 +56,7 @@ This Repo is still in progress, I will add more resources as I move ahead in the
 - [JavaScript Info](javascript.info)
 - [Namaste Javascript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&ab_channel=AkshaySaini)
 - [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+- [Tasks, MicroTasks, Queues, Schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ## Angular
 - [Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
@@ -76,6 +77,7 @@ This Repo is still in progress, I will add more resources as I move ahead in the
 - [Frontend Tips](https://getfrontend.tips/)
 - [Roadmap for Frontend](https://roadmap.sh/frontend)
 - [Tools for Clean Code](https://www.freecodecamp.org/news/these-tools-will-help-you-write-clean-code-da4b5401f68e/)
+- [100 Free Resources to learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
 
 ## Useful Github Repos
 - [Public APIs](https://github.com/public-apis/public-apis)
