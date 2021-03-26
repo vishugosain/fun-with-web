@@ -22,7 +22,6 @@ All the tools for web development in one place
 - [Info Card Concept](https://codepen.io/yancy/pen/gBLLxz)
 - [CSS Loader](https://codepen.io/uchardon/pen/VEBbdw)
 - [Helix CSS Loader](https://codepen.io/jerrylow/pen/OBBWez)
-- [Box Shadow Generator](https://shadows.brumm.af/)
 
 ## HTML/CSS
 - [Cool Background Generator](https://coolbackgrounds.io/)
@@ -49,7 +48,7 @@ All the tools for web development in one place
 - [HTML Head Tag Generator](https://htmlhead.dev/)
 - [Gradient Color Experimentor Online](https://codepen.io/meodai/pen/xyqoEO)
 - [Cool Hue Online](https://webkul.github.io/coolhue/)
-- 
+- [Box Shadow Generator](https://shadows.brumm.af/)
 
 ## JavaScript
 - [JSON Data Parser](http://jsonviewer.stack.hu/)
