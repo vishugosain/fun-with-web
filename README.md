@@ -66,6 +66,7 @@ This Repo is still in progress, I will add more resources as I move ahead in the
 - [Decorators](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
 - [Lazy Load Components in Angular v9](https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a)
 - [*ngIf: Complete Guide](https://blog.angular-university.io/angular-ngif/)
+- [Angular Web Notifications](https://blog.angular-university.io/angular-push-notifications/)
 
 ## RxJS
 - [RxJS Higher Order Mapping](https://blog.angular-university.io/rxjs-higher-order-mapping/)
