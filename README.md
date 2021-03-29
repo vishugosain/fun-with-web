@@ -7,10 +7,11 @@ This Repo is still in progress, I will add more resources as I move ahead in the
 2. [HTML/CSS](#htmlcss)
 3. [Javascript](#javascript)
 4. [Angular](#angular)
-5. [NodeJS](#nodejs)
-6. [Web Deployment](#web-deployment)
-7. [Web Development Tutorials](#web-tutorials)
-8. [Useful Github Repos](#useful-github-repos)
+5. [RxJS](#rxjs)
+6. [NodeJS](#nodejs)
+7. [Web Deployment](#web-deployment)
+8. [Web Development Tutorials](#web-tutorials)
+9. [Useful Github Repos](#useful-github-repos)
 
 ## UI/UX
 - [Collect UI](collectui.com)
@@ -65,6 +66,9 @@ This Repo is still in progress, I will add more resources as I move ahead in the
 - [Decorators](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
 - [Lazy Load Components in Angular v9](https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a)
 - [*ngIf: Complete Guide](https://blog.angular-university.io/angular-ngif/)
+
+## RxJS
+- [RxJS Higher Order Mapping](https://blog.angular-university.io/rxjs-higher-order-mapping/)
 
 ## NodeJS
 - [Connect MongoDB to a GraphQL Server](https://buddy.works/tutorials/how-to-connect-mongodb-to-graphql-server)
