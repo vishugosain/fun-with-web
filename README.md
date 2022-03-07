@@ -33,7 +33,6 @@ A ⭐  will be appreciated. Feel free to create a PR if you want to add some mor
 - [Neumorphism](https://neumorphism.io/#e0e0e0)
 - [GlassMorphism](https://glassmorphism.com/)
 - [Flat UI Colors](https://flatuicolors.com/)
-- [Wave Generator](https://flatuicolors.com/)
 - [Meta Tags Generator](https://metatags.io/)
 - [Color Pallete Hunt](https://colorhunt.co/)
 - [CSS Button Generator](https://www.cssbuttongenerator.com/)
