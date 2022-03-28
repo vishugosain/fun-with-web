@@ -61,7 +61,6 @@ A ⭐  will be appreciated. Feel free to create a PR if you want to add some mor
 
 ## Angular
 - [Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
-- [Debug RxJS](https://blog.angular-university.io/debug-rxjs/)
 - [Observable Data Services](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
 - [Decorators](https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082)
 - [Lazy Load Components in Angular v9](https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a)
@@ -70,6 +69,7 @@ A ⭐  will be appreciated. Feel free to create a PR if you want to add some mor
 
 ## RxJS
 - [RxJS Higher Order Mapping](https://blog.angular-university.io/rxjs-higher-order-mapping/)
+- [Debug RxJS](https://blog.angular-university.io/debug-rxjs/)
 
 ## NodeJS
 - [Connect MongoDB to a GraphQL Server](https://buddy.works/tutorials/how-to-connect-mongodb-to-graphql-server)
