@@ -66,6 +66,7 @@ A ⭐  will be appreciated. Feel free to create a PR if you want to add some mor
 - [Lazy Load Components in Angular v9](https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a)
 - [*ngIf: Complete Guide](https://blog.angular-university.io/angular-ngif/)
 - [Angular Web Notifications](https://blog.angular-university.io/angular-push-notifications/)
+- [Angular AOT Compiler](https://angular.io/guide/aot-compiler)
 
 ## RxJS
 - [RxJS Higher Order Mapping](https://blog.angular-university.io/rxjs-higher-order-mapping/)
